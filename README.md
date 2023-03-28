@@ -1,3 +1,3 @@
-This repository contains code for predicting fire radiative power (FRP) using satellite data from the Moderate Resolution Imaging Spectroradiometer (MODIS) instrument. The code uses machine learning models to predict FRP values based on various features such as location, time of day, and satellite imagery.
-The dataset used in this code is modis_2021_India.csv, which is a sample of MODIS data for India from the year 2021. 
-In addition to the code, there is also a PowerPoint presentation FRP.pptx included in the repository that provides an overview of the project  and the methodology used in this project.
+This repository contains code for predicting fire radiative power (FRP) using satellite data from the Moderate Resolution Imaging Spectroradiometer (MODIS) instrument. The code uses machine learning models to predict FRP values based on various features such as location, time of day, and satellite imagery.The dataset used in this code is modis_2021_India.csv, which is a sample of MODIS data for India from the year 2021.In addition to the code, there is also a PowerPoint presentation FRP.pptx included in the repository that provides an overview of the project  and the methodology used in this project. 
+
+
